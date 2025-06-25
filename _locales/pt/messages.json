@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Video Background Play Fix",
+    "description": "Nome da extensão."
+  },
+
+  "extensionDescription": {
+    "message": "Reproduza vídeos em segundo plano mesmo que uma página não queira.",
+    "description": "Descrição da extensão."
+  }
+}
